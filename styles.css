@@ -53,6 +53,11 @@
     margin-left: 20px;
 }
 
+.icons {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
 #menu-icon{
     cursor:pointer;
     font-size: 30px;
