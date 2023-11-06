@@ -113,8 +113,9 @@ h2, h3{
 }
 
 .container{
-    background-image: url(../FS_Online_Oct_Entregable_Landing_Page/img/background.jpeg);
-    background-size: 100%;
+    background-image: url(./img/background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100%;
     height: 922px;
     text-align: center;
